@@ -1,0 +1,30 @@
+{
+  "name": "@dword-design/postcss-link-area",
+  "version": "1.0.0",
+  "description": "Adds a new CSS property that allows to stretch a link across a parent container.",
+  "repository": "dword-design/postcss-link-area",
+  "license": "MIT",
+  "author": "Sebastian Landwehr <info@dword-design.de>",
+  "main": "dist/index.js",
+  "files": [
+    "dist"
+  ],
+  "scripts": {
+    "commit": "base commit",
+    "depgraph": "base depgraph",
+    "prepare": "base prepare",
+    "prepublishOnly": "base prepublishOnly",
+    "release": "base release",
+    "test": "base test"
+  },
+  "dependencies": {
+    "@dword-design/functions": "^2.7.2",
+    "postcss": "^7.0.27"
+  },
+  "devDependencies": {
+    "@dword-design/base": "^6.1.0"
+  },
+  "publishConfig": {
+    "access": "public"
+  }
+}
