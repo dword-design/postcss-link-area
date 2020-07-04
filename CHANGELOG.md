@@ -1,3 +1,10 @@
+## [1.0.1](https://github.com/dword-design/postcss-link-area/compare/v1.0.0...v1.0.1) (2020-07-04)
+
+
+### Bug Fixes
+
+* fixes after upgrades ([d7478a8](https://github.com/dword-design/postcss-link-area/commit/d7478a8f4e6662d9340d04fe43d67351a2bdd127))
+
 # 1.0.0 (2020-02-28)
 
 
