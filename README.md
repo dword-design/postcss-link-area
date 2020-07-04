@@ -14,7 +14,7 @@
 <!-- /BADGES -->
 
 <!-- DESCRIPTION/ -->
-
+Adds a new CSS property that allows to stretch a link across a parent container.
 <!-- /DESCRIPTION -->
 
 <!-- INSTALL/ -->
