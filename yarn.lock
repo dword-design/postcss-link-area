@@ -1090,14 +1090,14 @@
     yaml "^1.8.2"
 
 "@dword-design/ci@^1.0.1":
-  version "1.1.0"
-  resolved "https://registry.yarnpkg.com/@dword-design/ci/-/ci-1.1.0.tgz#7272c784afb7cbf9b322f001625abc43fa44e0ed"
-  integrity sha512-v/XfbH03fKv0v5nRBw4fnTya3gyofBEYjHTH4YIL0IJFNDUYw6lt7oXMOTI9g+PGGes41h6Ivx8Byt9NtELmTA==
+  version "1.1.1"
+  resolved "https://registry.yarnpkg.com/@dword-design/ci/-/ci-1.1.1.tgz#c3ca85be6524254eb20ba8898cb156ae61be4133"
+  integrity sha512-hvAai6CUH2GVvu4AL/FPql/cZZc2dIks0tLzH6RmmzClDDjLQ15ECXLPAmkgiuOqBwBFt+g762Wvglai7ThdeQ==
   dependencies:
     "@dword-design/functions" "^2.7.2"
     coveralls "^3.1.0"
-    execa "^4.0.0"
-    get-package-name "^1.1.0"
+    depcheck-package-name "^1.0.0"
+    execa "^5.0.0"
     make-cli "^1.0.16"
     safe-readfile "^1.0.2"
 
@@ -4146,11 +4146,6 @@ get-intrinsic@^1.0.0, get-intrinsic@^1.0.1:
     function-bind "^1.1.1"
     has "^1.0.3"
     has-symbols "^1.0.1"
-
-get-package-name@^1.1.0:
-  version "1.1.0"
-  resolved "https://registry.yarnpkg.com/get-package-name/-/get-package-name-1.1.0.tgz#06a7c6e2b8bfcb84dc3abbfc2f92bf59bb2a1d66"
-  integrity sha512-lwMnhvJ8lYNegh1306J9GTrXk8/5D2CTKK9bZ+bK0N1MN9i9hMZWe9B37LNMs531HdKjobHLRCWIS6vCl4Z46A==
 
 get-package-type@^0.1.0:
   version "0.1.0"
