@@ -1,3 +1,10 @@
+## [1.0.6](https://github.com/dword-design/postcss-link-area/compare/v1.0.5...v1.0.6) (2021-03-22)
+
+
+### Bug Fixes
+
+* lock file maintenance ([#12](https://github.com/dword-design/postcss-link-area/issues/12)) ([d8739f2](https://github.com/dword-design/postcss-link-area/commit/d8739f289dfe0dfcfd4ee143e47e8aceb25bef5f))
+
 ## [1.0.5](https://github.com/dword-design/postcss-link-area/compare/v1.0.4...v1.0.5) (2021-03-17)
 
 
