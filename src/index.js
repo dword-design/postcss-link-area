@@ -6,11 +6,14 @@ export default postcss.plugin('postcss-link-area', () => css => {
     if (decl.value !== 'stretch') {
       return
     }
+
     const origRule = decl.parent
+
     const ruleSelectors =
       origRule.selectors
       |> map(ruleSelector => `${ruleSelector}:after`)
       |> join(',\n')
+
     // Insert the :after rule before the original rule
     const newRule = origRule.cloneAfter({ selector: ruleSelectors }).removeAll()
     newRule.append(

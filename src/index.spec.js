@@ -6,6 +6,7 @@ import plugin from '.'
 export default {
   'other properties': async () => {
     const processor = postcss([plugin])
+
     const css =
       processor.process('a { background: red; link-area: stretch }')
       |> await
@@ -16,6 +17,7 @@ export default {
   },
   valid: async () => {
     const processor = postcss([plugin])
+
     const css =
       processor.process('a { link-area: stretch }') |> await |> property('css')
     expect(css).toEqual(endent`
