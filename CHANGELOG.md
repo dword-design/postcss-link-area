@@ -1,3 +1,20 @@
+# [2.0.0](https://github.com/dword-design/postcss-link-area/compare/v1.0.8...v2.0.0) (2021-05-04)
+
+
+### Bug Fixes
+
+* update dependency @dword-design/base to v8 ([#22](https://github.com/dword-design/postcss-link-area/issues/22)) ([799b42a](https://github.com/dword-design/postcss-link-area/commit/799b42ad2e52646ef63f24774cbce91e118a30d6))
+* update dependency @dword-design/functions to v4 ([#23](https://github.com/dword-design/postcss-link-area/issues/23)) ([a9c336a](https://github.com/dword-design/postcss-link-area/commit/a9c336a3f91645e4d2c05c12de5382250f90d691))
+
+
+### BREAKING CHANGES
+
+* require Node.js >= 12
+
+Co-authored-by: Renovate Bot <bot@renovateapp.com>
+Co-authored-by: Sebastian Landwehr <info@dword-design.de>
+Co-authored-by: GitHub Actions <actions@github.com>
+
 ## [1.0.8](https://github.com/dword-design/postcss-link-area/compare/v1.0.7...v1.0.8) (2021-04-12)
 
 
