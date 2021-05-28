@@ -1,3 +1,10 @@
+## [2.0.1](https://github.com/dword-design/postcss-link-area/compare/v2.0.0...v2.0.1) (2021-05-28)
+
+
+### Bug Fixes
+
+* update config files ([25528ed](https://github.com/dword-design/postcss-link-area/commit/25528ed703a9a038c7ae35eb8af9964ce3fdba8c))
+
 # [2.0.0](https://github.com/dword-design/postcss-link-area/compare/v1.0.8...v2.0.0) (2021-05-04)
 
 
