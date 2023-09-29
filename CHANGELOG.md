@@ -1,3 +1,10 @@
+## [2.0.13](https://github.com/dword-design/postcss-link-area/compare/v2.0.12...v2.0.13) (2023-09-29)
+
+
+### Bug Fixes
+
+* update dependency postcss to v8.4.31 ([8a9e9f9](https://github.com/dword-design/postcss-link-area/commit/8a9e9f9b35b4b5af1c156e6473325f62310c3f9e))
+
 ## [2.0.12](https://github.com/dword-design/postcss-link-area/compare/v2.0.11...v2.0.12) (2023-09-19)
 
 
